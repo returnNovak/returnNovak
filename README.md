@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Pavel Novák
 
-<!--
-**returnNovak/returnNovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub – ReturnNovak
 
-Here are some ideas to get you started:
+💻 I'm a technology enthusiast focused on web application development, automation and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and developing my skills in JavaScript and Node.js.
+
+### 🛠️ Technologies & Tools
+
+- **Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap
+- **Backend:** Node.js, Express
+- **Database:** SQLite
+- **Tools:** Visual Studio Code, Git, GitHub
+- **Other interests:** PWA, ESP32, automation
+
+### 🚀 What I'm working on
+
+- Progressive Web Applications (PWA)
+- JavaScript and object-oriented programming
+- Node.js applications and REST APIs
+- Practical automation projects
+
+### 🌐 Find me online
+
+- **Website:** [pavelnovakreturn.cz](https://pavelnovakreturn.cz)
+- **GitHub:** [@returnNovak](https://github.com/returnNovak)
+
+---
+
+*Learning, building and improving – one project at a time.* 🚀
